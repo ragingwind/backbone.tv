@@ -1,0 +1,21 @@
+@import url("examples.css");
+@import url("font-awesome.css");
+
+document {
+  padding:0;
+  margin:0;
+  border:0;
+}
+
+body {
+  padding:0;
+  margin:0;
+  border:0;
+  overflow:hidden;
+}
+
+#app {
+  width:100%;
+  height:100%;
+  overflow: hidden;
+}

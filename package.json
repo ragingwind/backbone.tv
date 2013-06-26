@@ -1,0 +1,22 @@
+{
+  "name": "backbone.tv",
+  "version": "0.0.2",
+  "description": "backbone-tv is the backbone extension library to make easily webapp for kind of tv style.",
+  "main": "backbont.tv.js",
+  "dependencies": {
+    "lodash": ">=1.0.0-rc.3"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-connect": "0.1.2",
+    "grunt-contrib-livereload": "0.1.1",
+    "grunt-contrib-concat": "~0.1.2",
+    "grunt-open": "~0.2.0",
+    "grunt-regarde": "~0.1.1",
+    "matchdep": "~0.1.1"
+  },
+  "repository": "https://github.com/MOONANDYOU/backbone.tv",
+  "author": "jimmy moon <ragingwind@gmail.com>",
+  "license": "MIT"
+}
